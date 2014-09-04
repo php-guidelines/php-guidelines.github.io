@@ -11,6 +11,10 @@ The FG stands for Framework Group. The name until recently was
 “PHP Standards Group” but this was somewhat inaccurate of the intentions of the
 group.
 
+<i>Note: PHP Framework Group (PHP-FG), its standards and content of this website
+are based on the work of the PHP Framework Interoperability Group (PHP-FIG),
+licensed under Creative Commons BY 3.0, but it is a very different group.</i>
+
 
 ## What are the aims of the PHP-FG?
 

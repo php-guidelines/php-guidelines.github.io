@@ -13,8 +13,9 @@ audience is each other, but we’re very aware that the rest of the PHP communit
 is watching. If other folks want to adopt what we’re doing they are welcome to
 do so, but that is not the aim.
 
-Note: PHP Framework Group (PHP-FG) is based on the work of the PHP Framework
-Interoperability Group (PHP-FIG), but it is a different group.
+<i>Note: PHP Framework Group (PHP-FG), its standards and content of this website
+are based on the work of the PHP Framework Interoperability Group (PHP-FIG),
+licensed under Creative Commons BY 3.0, but it is a very different group.</i>
 
 [Read more in the FAQ](/faq/)
 
