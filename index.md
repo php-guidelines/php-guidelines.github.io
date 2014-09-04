@@ -27,4 +27,8 @@ title:  PHP User Group Standards
         <h4><a target="_blank" href="http://texy.info">Texy</a></h4>
         DGX (<a href="http://twitter.com/davidgrudl">@davidgrudl</a>)
     </li>
+    <li>
+        <h4><a target="_blank" href="https://github.com/Zenify">Zenify</a></h4>
+        Tomáš Votruba (<a href="http://twitter.com/VotrubaT">@VotrubaT</a>)
+    </li>
 </ul>
