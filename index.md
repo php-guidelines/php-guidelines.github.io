@@ -49,8 +49,6 @@ Do not combine separate membership requests in a single thread; one request per 
         <h4><a target="_blank" href="https://kdyby.org">Kdyby</a></h4>
         Filip Procházka (<a href="https://twitter.com/ProchazkaFilip">@ProchazkaFilip</a>)
     </li>
-</ul>
-<ul id="voting-members">
     <li>
         <h4><a target="_blank" href="http://nella-project.org">Nella Project</a></h4>
         Patrik Votoček (<a href="http://twitter.com/PatrikVotocek">@PatrikVotocek</a>)
