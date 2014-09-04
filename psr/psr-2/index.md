@@ -12,4 +12,4 @@ translations:
  - name: Italian
    path: /psr/psr-2/it
 ---
-{% include fig-standards/accepted/PSR-2-coding-style-guide.md %}
+{% include fg-standards/accepted/PSR-2-coding-style-guide.md %}

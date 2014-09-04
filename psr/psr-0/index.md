@@ -12,4 +12,4 @@ translations:
  - name: Italian
    path: /psr/psr-0/it
 ---
-{% include fig-standards/accepted/PSR-0.md %}
+{% include fg-standards/accepted/PSR-0.md %}

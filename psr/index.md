@@ -2,7 +2,7 @@
 layout: default
 title:  PSR Overview
 ---
-# PHP-FIG PSR
+# PHP-FG PSR
 
 
 ### Accepted Standards

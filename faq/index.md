@@ -1,18 +1,18 @@
 ---
 layout: default
-title:  FAQ — PHP-FIG
+title:  FAQ — PHP-FG
 ---
-# PHP-FIG FAQ
+# PHP-FG FAQ
 
 
-## What does FIG stand for?
+## What does FG stand for?
 
-The FIG stands for Framework Interoperability Group. The name until recently was
+The FG stands for Framework Group. The name until recently was
 “PHP Standards Group” but this was somewhat inaccurate of the intentions of the
 group.
 
 
-## What are the aims of the PHP-FIG?
+## What are the aims of the PHP-FG?
 
 The idea behind the group is for project representatives to talk about the
 commonalities between our projects and find ways we can work together. Our main
@@ -25,15 +25,15 @@ how to build your application.
 ## What standards have been passed so far?
 
 <dl>
-	<dt><a target="_blank" href="http://www.php-fig.org/psr/psr-0/">PSR-0</a></dt>
+	<dt><a target="_blank" href="http://www.php-fg.org/psr/psr-0/">PSR-0</a></dt>
 	<dd>Aims to provide a standard file, class and namespace convention to allow plug-and-play code.</dd>
-	<dt><a target="_blank" href="http://www.php-fig.org/psr/psr-1/">PSR-1</a></dt>
+	<dt><a target="_blank" href="http://www.php-fg.org/psr/psr-1/">PSR-1</a></dt>
 	<dd>Aims to ensure a high level of technical interoperability between shared PHP code.</dd>
-	<dt><a target="_blank" href="http://www.php-fig.org/psr/psr-2/">PSR-2</a></dt>
+	<dt><a target="_blank" href="http://www.php-fg.org/psr/psr-2/">PSR-2</a></dt>
 	<dd>Provides a Coding Style Guide for projects looking to standardize their code.</dd>
-	<dt><a target="_blank" href="http://www.php-fig.org/psr/psr-3/">PSR-3</a></dt>
+	<dt><a target="_blank" href="http://www.php-fg.org/psr/psr-3/">PSR-3</a></dt>
 	<dd>Describes a common interface for logging libraries.</dd>
-	<dt><a target="_blank" href="http://www.php-fig.org/psr/psr-4/">PSR-4</a></dt>
+	<dt><a target="_blank" href="http://www.php-fg.org/psr/psr-4/">PSR-4</a></dt>
 	<dd>A more modern take on autoloading reflecting advances in the ecosystem.</dd>
 </dl>
 
@@ -45,18 +45,18 @@ Since then various other members have applied and been voted in, increasing the 
 of the group from the first 5 to over 20.
 
 It may not be an “official” PHP group, but if that was the case who would do the appointing?
-The FIG represents a cross-section of the community, and over time that cross-section
+The FG represents a cross-section of the community, and over time that cross-section
 will represent a wider selection of projects.
 
 
 ## Who are these voting members?
 
-The full list of voting members can be seen [here](https://github.com/php-fig/fig-standards#voting-members).
+The full list of voting members can be seen [here](https://github.com/php-fg/fg-standards#voting-members).
 
 
 ## Do voting members have to comply to the standards?
 
-No. Becoming a voting member on the PHP-FIG in no way forces a member or project
+No. Becoming a voting member on the PHP-FG in no way forces a member or project
 to implement every - or any - accepted PSRs. Projects have to consider backwards-
 compatibility issues when upgrading and make the changes at the right time, so it
 is assumed most projects will eventually adopt, but it is not a requirement.
@@ -64,14 +64,14 @@ is assumed most projects will eventually adopt, but it is not a requirement.
 
 ## Can I get involved?
 
-Absolutely. Anybody who subscribes to the Google Group is part of the PHP-FIG.
+Absolutely. Anybody who subscribes to the Google Group is part of the PHP-FG.
 As soon as you subscribe to the [mailing list][mailing] and/or join the
-[IRC channel][irc] you are a PHP-FIG Community Member, who
-can influence standards, make suggestions, give feedback, etc. Only PHP-FIG Voting
+[IRC channel][irc] you are a PHP-FG Community Member, who
+can influence standards, make suggestions, give feedback, etc. Only PHP-FG Voting
 Members can start or participate in votes, but the discussion and formation stages
 involve everyone.
 
-  [mailing]: http://groups.google.com/group/php-fig/
+  [mailing]: http://groups.google.com/group/php-fg/
   [irc]: /irc/
 
 
@@ -93,7 +93,7 @@ only get one vote.
 
 The rules are all described in the [Voting Protocol Bylaws][bylaws].
 
- [bylaws]: https://github.com/php-fig/fig-standards/blob/master/bylaws/001-voting-protocol.md
+ [bylaws]: https://github.com/php-fg/fg-standards/blob/master/bylaws/001-voting-protocol.md
 
 
 ## Why has [FRAMEWORK X] not been voted into the group?
@@ -118,14 +118,14 @@ implementors working alongside the people creating packages and the people
 developing systems with the frameworks are all of equal importance.
 
 
-## I use [FRAMEWORK X] which is a voting member, yet I’ve never heard about the PHP-FIG until now. How are they representing their community?
+## I use [FRAMEWORK X] which is a voting member, yet I’ve never heard about the PHP-FG until now. How are they representing their community?
 
 Framework developers have a multitude of factors to consider when planning the
 roadmap for their products and they need to take their community into account
 when they do this. Factors like features, functionality, style guide, minimum
 requirements, etc. are all subject to change in any new version and each project
 makes their own decisions. How they involve their communities in decision making
-is entirely up to them, not the FIG.
+is entirely up to them, not the FG.
 
 
 ## Why do you use strict language with words like MUST, MUST NOT, and REQUIRED in all caps in your documentation and specifications?
@@ -156,7 +156,7 @@ is a good example of a project adopting RFC 2119 for its own purposes.
 ## Can you help me with my PHP code?
 
 While there are many user groups and forums dedicated to providing general
-PHP support, the FIG is not one of them. Here are some great PHP resources
+PHP support, the FG is not one of them. Here are some great PHP resources
 and support forums:
 
  * [/r/phphelp](http://www.reddit.com/r/phphelp)

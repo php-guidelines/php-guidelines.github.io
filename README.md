@@ -1,10 +1,10 @@
-www.php-fig.org
----------------
+www.php-fg.org
+--------------
 
-This is the source for [www.php-fig.org][site]. It is automatically compiled by
+This is the source for [www.php-fg.org][site]. It is automatically compiled by
 [Jekyll][jekyll] every time a pull request is merged.
 
- [site]:   http://www.php-fig.org
+ [site]:   http://www.php-fg.org
  [jekyll]: https://github.com/mojombo/jekyll
 
 
@@ -19,7 +19,7 @@ Contributing
 
  3. If you'd like to test things out locally, you'll need to install Jekyll and
     a markdown engine:
-     
+
     ```bash
     gem install bundler
     bundle install
@@ -33,5 +33,5 @@ Contributing
 
     ... and open `http://localhost:4000` in your browser to check it out!
 
- [issue]: https://github.com/php-fig/php-fig.github.com/issues
+ [issue]: https://github.com/php-fg/php-fg.github.com/issues
  [edit]:  https://github.com/blog/905-edit-like-an-ace

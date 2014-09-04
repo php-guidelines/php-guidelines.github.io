@@ -12,4 +12,4 @@ translations:
  - name: Italian
    path: /psr/psr-1/it
 ---
-{% include fig-standards/accepted/PSR-1-basic-coding-standard.md %}
+{% include fg-standards/accepted/PSR-1-basic-coding-standard.md %}

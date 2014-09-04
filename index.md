@@ -1,17 +1,20 @@
 ---
 layout: default
-title:  PHP-FIG — PHP Framework Interop Group
+title:  PHP-FG — PHP Framework Group
 ---
 # Welcome PHP developers
 
 
-### What is FIG?
+### What is FG?
 
 The idea behind the group is for project representatives to talk about the
 commonalities between our projects and find ways we can work together. Our main
 audience is each other, but we’re very aware that the rest of the PHP community
 is watching. If other folks want to adopt what we’re doing they are welcome to
 do so, but that is not the aim.
+
+Note: PHP Framework Group (PHP-FG) is based on the work of the PHP Framework
+Interoperability Group (PHP-FIG), but it is a different group.
 
 [Read more in the FAQ](/faq/)
 
@@ -23,7 +26,7 @@ or in the [IRC channel][irc].
 
 To become a voting member, you must send an email to the [mailing list][mailing-list].
 
-  [mailing-list]: https://groups.google.com/forum/?fromgroups#!forum/php-fig
+  [mailing-list]: https://groups.google.com/forum/?fromgroups#!forum/php-fg
   [irc]: /irc/
 
 The subject line should read: `Membership Request: {$your_name} ({$project_name})`

@@ -1,9 +1,9 @@
 #!/usr/bin/env ruby
 # encoding: utf-8
 
-# A script for programmatically generating PSR and translation pages for php-fig.org
+# A script for programmatically generating PSR and translation pages for php-fg.org
 
-PSR_DIR  = File.join(File.dirname(__FILE__), '_includes', 'fig-standards', 'accepted')
+PSR_DIR  = File.join(File.dirname(__FILE__), '_includes', 'fg-standards', 'accepted')
 EXTRAS   = ['meta', 'examples']
 LANG_MAP = {
   :es => 'Spanish',
@@ -30,7 +30,7 @@ Dir["#{PSR_DIR}/*.md"].sort.each do |original|
       :path  => "/psr/psr-#{num}",
       :title => "PSR-#{num} — #{title}",
       :disc  => false,
-      :inc   => original.sub(%r{.*/fig-standards/}, 'fig-standards/'),
+      :inc   => original.sub(%r{.*/fg-standards/}, 'fg-standards/'),
     }
   ]
 

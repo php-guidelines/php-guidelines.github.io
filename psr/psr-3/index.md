@@ -10,4 +10,4 @@ translations:
  - name: French
    path: /psr/psr-3/fr
 ---
-{% include fig-standards/accepted/PSR-3-logger-interface.md %}
+{% include fg-standards/accepted/PSR-3-logger-interface.md %}
