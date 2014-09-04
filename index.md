@@ -53,4 +53,8 @@ Do not combine separate membership requests in a single thread; one request per 
         <h4><a target="_blank" href="http://nella-project.org">Nella Project</a></h4>
         Patrik Votoček (<a href="http://twitter.com/PatrikVotocek">@PatrikVotocek</a>)
     </li>
+    <li>
+        <h4><a target="_blank" href="http://texy.info">Texy</a></h4>
+        DGX (<a href="http://twitter.com/davidgrudl">@davidgrudl</a>)
+    </li>
 </ul>
