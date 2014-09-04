@@ -1,0 +1,3 @@
+[submodule "_includes/standards"]
+	path = _includes/standards
+	url = https://github.com/php-guidelines/standards
