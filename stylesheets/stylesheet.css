@@ -1,0 +1,334 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+	v2.0 | 20110126
+	License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* LAYOUT STYLES */
+html {
+	overflow-y: scroll;
+}
+
+body {
+	font-size: 1em;
+	line-height: 1.5;
+	background: #e7e7e7 url(../images/body-bg.png) 0 0 repeat;
+	font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+	color: #222;
+}
+
+header {
+	padding-top: 35px;
+	padding-bottom: 25px;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+}
+
+header h1 {
+	font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif; font-weight: 900;
+	letter-spacing: -1px;
+	font-size: 48px;
+	color: #303030;
+	line-height: 1.2;
+	margin: 0;
+}
+
+header a {
+	color: #303030;
+	text-decoration: none;
+}
+
+header h2 {
+	letter-spacing: -1px;
+	font-size: 24px;
+	color: #aaa;
+	font-weight: normal;
+	line-height: 1.3;
+	margin: 0;
+}
+
+#container {
+	background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
+	min-height: 595px;
+}
+
+.inner {
+	width: 620px;
+	margin: 0 auto;
+}
+
+#container .inner img {
+	max-width: 100%;
+}
+
+
+a {
+	color: #1E71CA;
+	padding: 3px;
+	margin: 0 -3px;
+	border-radius: 1px;
+}
+
+a:hover, a:focus, a:active {
+	color: white;
+	background: #1E71CA;
+}
+
+
+code, pre {
+	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
+	color: #222;
+	margin-bottom: 30px;
+	font-size: 14px;
+}
+
+code {
+	background-color: #fff;
+	border: solid 1px #ddd;
+	padding: 0 3px;
+}
+
+pre {
+	padding: 10px 5px;
+	background: #fff;
+	text-shadow: none;
+	overflow: auto;
+}
+pre code {
+	color: #2879d0;
+	background-color: #fff;
+	border: none;
+	padding: 0;
+}
+
+ul, ol, dl {
+	margin-bottom: 20px;
+}
+
+
+/* COMMON STYLES */
+
+hr {
+	height: 1px;
+	line-height: 1px;
+	margin-top: 1em;
+	padding-bottom: 1em;
+	border: none;
+	background: transparent url('../images/hr.png') 50% 0 no-repeat;
+}
+
+strong {
+	font-weight: bold;
+}
+
+em {
+	font-style: italic;
+}
+
+table {
+	width: 100%;
+	border: 1px solid #ebebeb;
+}
+
+th {
+	font-weight: 500;
+}
+
+td {
+	border: 1px solid #ebebeb;
+	text-align: center;
+	font-weight: 300;
+}
+
+form {
+	background: #f2f2f2;
+	padding: 20px;
+
+}
+
+
+/* GENERAL ELEMENT TYPE STYLES */
+
+h1 {
+	font-size: 22px;
+	font-weight: bold;
+	color: #303030;
+	margin: 1em 0 .5em;
+}
+
+h2 {
+	color: #d5000d;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 1em 0 .5em;
+}
+
+h3 {
+	font-size: 16px;
+	color: #d5000d;
+	font-weight: bold;
+	margin: 1em 0 .5em;
+}
+
+h4 {
+	font-size: 1em;
+	color: #d5000d;
+	margin: 1em 0 .5em;
+}
+
+p {
+	font-weight: 300;
+	margin-bottom: 20px;
+}
+
+p a {
+	font-weight: 400;
+}
+
+blockquote {
+	font-size: 1.6em;
+	border-left: 10px solid #e9e9e9;
+	margin-bottom: 20px;
+	padding: 0 0 0 30px;
+}
+
+ul li {
+	list-style: disc inside;
+	padding-left: 20px;
+}
+
+ol li {
+	list-style: decimal inside;
+	padding-left: 3px;
+}
+
+dl dt {
+	color: #303030;
+}
+
+footer {
+	background: transparent url('../images/hr.png') 0 0 no-repeat;
+	margin-top: 40px;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	font-size: 13px;
+	color: #aaa;
+}
+
+footer a {
+	color: #666;
+}
+footer a:hover {
+	color: #444;
+}
+
+/* MISC */
+.clearfix:after {
+	clear: both;
+	content: '.';
+	display: block;
+	visibility: hidden;
+	height: 0;
+}
+
+.clearfix {display: inline-block;}
+* html .clearfix {height: 1%;}
+.clearfix {display: block;}
+
+/* #Media Queries
+================================================== */
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+	header {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	#documents {
+		margin-bottom: 25px;
+	}
+	.inner {
+		width: 94%;
+		margin: 0 auto;
+	}
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {}
+
+
+#documents li {
+	list-style: none;
+	padding: 0;
+}
+
+
+#members {
+	-webkit-column-count: 2;
+	-moz-column-count: 2;
+	column-count: 2;
+	color: gray;
+}
+
+#members li {
+	list-style: none;
+	margin-bottom: 8px;
+	-webkit-column-break-inside: avoid;
+	break-inside: avoid;
+	display: inline-block;
+	width: 100%;
+}
+
+#members h4 {
+	margin: 0 0 0 -20px;
+}
