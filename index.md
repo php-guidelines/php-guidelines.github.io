@@ -45,4 +45,8 @@ Do not combine separate membership requests in a single thread; one request per 
         <h4><a target="_blank" href="http://nette.org">Nette</a></h4>
         David Grudl (<a href="http://twitter.com/geekovo">@geekovo</a>)
     </li>
+    <li>
+        <h4><a target="_blank" href="https://kdyby.org">Kdyby</a></h4>
+        Filip Procházka (<a href="https://twitter.com/ProchazkaFilip">@ProchazkaFilip</a>)
+    </li>
 </ul>
