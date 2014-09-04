@@ -34,19 +34,6 @@ Dir["#{PSR_DIR}/*.md"].sort.each do |original|
     }
   ]
 
-  Dir["#{PSR_DIR}/*/PSR-#{num}*.md"].sort.each do |tr|
-    lang  = File.basename(File.dirname(tr))
-    title = File.read(tr).split(/[\n\r]/).first
-
-    pages << {
-      :lang  => lang,
-      :name  => LANG_MAP[lang.to_sym],
-      :path  => "/psr/psr-#{num}/#{lang}",
-      :title => "PSR-#{num} — #{title}",
-      :inc   => tr.sub(%r{.*/fig-standards/}, 'fig-standards/'),
-    }
-  end
-
   pages.each do |page|
     links = []
     pages.each do |other|
