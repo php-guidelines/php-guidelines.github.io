@@ -21,13 +21,11 @@ Interoperability Group (PHP-FIG), but it is a different group.
 
 ### Requesting Membership
 
-You do not need to be a voting member to participate in discussion on the [mailing list][mailing-list]
-or in the [IRC channel][irc].
+You do not need to be a voting member to participate in discussion on the [mailing list][mailing-list].
 
 To become a voting member, you must send an email to the [mailing list][mailing-list].
 
   [mailing-list]: https://groups.google.com/forum/?fromgroups#!forum/php-fg
-  [irc]: /irc/
 
 The subject line should read: `Membership Request: {$your_name} ({$project_name})`
 

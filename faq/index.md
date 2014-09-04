@@ -65,14 +65,12 @@ is assumed most projects will eventually adopt, but it is not a requirement.
 ## Can I get involved?
 
 Absolutely. Anybody who subscribes to the Google Group is part of the PHP-FG.
-As soon as you subscribe to the [mailing list][mailing] and/or join the
-[IRC channel][irc] you are a PHP-FG Community Member, who
+As soon as you subscribe to the [mailing list][mailing] you are a PHP-FG Community Member, who
 can influence standards, make suggestions, give feedback, etc. Only PHP-FG Voting
 Members can start or participate in votes, but the discussion and formation stages
 involve everyone.
 
   [mailing]: http://groups.google.com/group/php-fg/
-  [irc]: /irc/
 
 
 ## Should I contact my representative to get involved?
