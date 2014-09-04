@@ -3,4 +3,4 @@
 layout:     psr
 title:      PSR-0 — Autoloading Standard
 ---
-{% include fg-standards/accepted/PSR-0.md %}
+{% include standards/accepted/PSR-0.md %}

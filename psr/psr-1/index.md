@@ -3,4 +3,4 @@
 layout:     psr
 title:      PSR-1 — Basic Coding Standard
 ---
-{% include fg-standards/accepted/PSR-1-basic-coding-standard.md %}
+{% include standards/accepted/PSR-1-basic-coding-standard.md %}

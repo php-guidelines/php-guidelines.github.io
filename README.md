@@ -33,5 +33,5 @@ Contributing
 
     ... and open `http://localhost:4000` in your browser to check it out!
 
- [issue]: https://github.com/php-fg/php-fg.github.com/issues
+ [issue]: https://github.com/php-group/php-group.github.io/issues
  [edit]:  https://github.com/blog/905-edit-like-an-ace

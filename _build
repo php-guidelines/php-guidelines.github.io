@@ -1,9 +1,9 @@
 #!/usr/bin/env ruby
 # encoding: utf-8
 
-# A script for programmatically generating PSR and translation pages for php-fg.org
+# A script for programmatically generating pages
 
-PSR_DIR  = File.join(File.dirname(__FILE__), '_includes', 'fg-standards', 'accepted')
+PSR_DIR  = File.join(File.dirname(__FILE__), '_includes', 'standards', 'accepted')
 EXTRAS   = ['meta', 'examples']
 
 raise 'Run "git submodule init"' unless File.directory?(PSR_DIR)
@@ -24,7 +24,7 @@ Dir["#{PSR_DIR}/*.md"].sort.each do |original|
       :path  => "/psr/psr-#{num}",
       :title => "PSR-#{num} — #{title}",
       :disc  => false,
-      :inc   => original.sub(%r{.*/fg-standards/}, 'fg-standards/'),
+      :inc   => original.sub(%r{.*/standards/}, 'standards/'),
     }
   ]
 

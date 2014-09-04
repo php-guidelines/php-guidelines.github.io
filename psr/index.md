@@ -1,8 +1,8 @@
 ---
 layout: default
-title:  PSR Overview
+title:  Standards Overview
 ---
-# PHP-FG PSR
+# Standards
 
 
 ### Accepted Standards
@@ -11,6 +11,6 @@ title:  PSR Overview
 
 - [PSR-1 - Basic Coding Standard](/psr/psr-1)
 
-- [PSR-2 - Coding Style Guide](/psr/psr-2)
+- [PGS-2 - Coding Style Guide](/psr/pgs-2)
 
-- [PSR-3 - Logger Interface](/psr/psr-3)
+- [PSR-4 - Improved Autoloader](/psr/psr-4)

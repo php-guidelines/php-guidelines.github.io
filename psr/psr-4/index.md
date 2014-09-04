@@ -3,4 +3,4 @@
 layout:     psr
 title:      PSR-4 — Autoloader
 ---
-{% include fg-standards/accepted/PSR-4-autoloader.md %}
+{% include standards/accepted/PSR-4-autoloader.md %}
