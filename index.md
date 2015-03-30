@@ -6,7 +6,7 @@ title:  PHP Coding Guidelines & Standards
 What is PHP Guidelines?
 -----------------------
 
-These recommendations are exactly the same as [PHP-FIG] PSR-0, 1, 2 and PSR-4 standards, with two differencies:
+These recommendations are exactly the same as [PHP-FIG] PSR-0, 1, 2 and PSR-4 standards, with two differences:
 
 - you MAY use tabs for indenting
 - you MAY write PHP constants `TRUE`, `FALSE`, and `NULL` in upper case
@@ -21,8 +21,8 @@ with well-known standards from the PHP-FIG, but are not interested in whitespace
 Rationale
 ---------
 
-Some people like tabs, some like spaces. The 30 % of PHP projects use tabs (among them some of PHP-FIG
-members). We respect freedom of choice, especially when unsignificant whitespace can be converted
+Some people like tabs, some like spaces. The 30 % of PHP projects use tabs (including some PHP-FIG
+member projects). We respect freedom of choice, especially when unsignificant whitespace can be converted
 automatically, for example using Git:
 
 ```
@@ -40,14 +40,14 @@ Therefore standard [PGS-2](pgs-2) in comparsion to
 the PSR-2 allows using tabs for indentation.
 
 Whole [PHP documentation uses](http://php.net/manual/en/types.comparisons.php)
-constants `TRUE`, `FALSE` and `NULL` written in upper letters. PSR-1 itself
-states that constants MUST be in upper cases. Therefore PGS-2 allows in comparsion
-to the PSR-2 to write them in upper cases too.
+constants `TRUE`, `FALSE` and `NULL` written in upper case. PSR-1 itself
+states that class constants MUST be in upper case. Therefore PGS-2 allows in comparsion
+to the PSR-2 to write them in upper case too.
 
 ----
 
 **Using tabs or capital letters is matter of your choice. But you MUST use the same
-style consistently across all files in whole Vendor namespace.**
+style consistently across all files in whole vendor namespace.**
 
 ---
 
