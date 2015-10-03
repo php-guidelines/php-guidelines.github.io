@@ -14,8 +14,6 @@ These recommendations are exactly the same as [PHP-FIG] PSR-0, 1, 2 and PSR-4 st
 Basically, our standards are suitable for all PHP developers who want to be compliant
 with well-known standards from the PHP-FIG, but are not interested in whitespace holy wars.
 
-*Note: domain name php-fg.org is temporary, originally created as a joke.*
-
 <hr>
 
 Rationale
